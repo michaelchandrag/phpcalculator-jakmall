@@ -4,5 +4,6 @@ return [
 	'AddCommand',
 	'SubstractCommand',
 	'MultiplyCommand',
-	'DivideCommand'
+	'DivideCommand',
+	'PowCommand'
 ];
