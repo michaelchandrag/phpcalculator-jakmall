@@ -2,5 +2,6 @@
 
 return [
 	'AddCommand',
-	'SubstractCommand'
+	'SubstractCommand',
+	'MultiplyCommand'
 ];
