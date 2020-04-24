@@ -3,5 +3,6 @@
 return [
 	'AddCommand',
 	'SubstractCommand',
-	'MultiplyCommand'
+	'MultiplyCommand',
+	'DivideCommand'
 ];
